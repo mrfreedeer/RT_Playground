@@ -1,0 +1,3 @@
+[submodule "Amaterasu"]
+	path = Amaterasu
+	url = git@github.com:mrfreedeer/Amaterasu.git
